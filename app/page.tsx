@@ -72,19 +72,19 @@ export default function Home() {
         </a>
 
         <a
-          href="/cost_tracking_page"
+          href="https://www.youtube.com/playlist?list=PLW8Lo4lxam3KOWTMNDO88zUqtZAR-3e82"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
           target="_blank"
           rel="noopener noreferrer"
         >
           <h2 className={`mb-3 text-2xl font-semibold`}>
-            Cost Tracker{" "}
+            Cost-Effective Alternatives{" "}
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-          Find the best foods for your diet given based on how much you wanna spend
+          Here we have compiled some great healthy eating budget alternatives!
           </p>
         </a>
 
