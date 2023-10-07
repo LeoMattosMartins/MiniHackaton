@@ -15,7 +15,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            By Leo, Dom, Jonny, and Jake{" "}
+            By Leo, Dom, Jonny, Irene, and Jake{" "}
             
           </a>
         </div>
