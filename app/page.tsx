@@ -38,7 +38,7 @@ export default function Home() {
 
       <div className="mb-32 grid text-center lg:mb-0 lg:grid-cols-3 lg:text-left">
         <a
-          href="/barcode_page"
+          href="https://www.amazon.com/s?k=barcode+scanner&crid=GGFVSVAE3P04&sprefix=barcode+scanner%2Caps%2C87&ref=nb_sb_noss_1"
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800/30"
           target="_blank"
           rel="noopener noreferrer"
@@ -50,12 +50,12 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Find nutritional information about any product by scanning its barcode here
+            Find nutritional information about any product by scanning its barcode with one of these scanners.
           </p>
         </a>
 
         <a
-          href="/calorie_counting_page"
+          href="https://www.health.harvard.edu/staying-healthy/calorie-counting-made-easy#:~:text=One%20approach%20is%20to%20add,provide%20calories%20per%20serving%20information."
           className="group rounded-lg border border-transparent px-5 py-4 transition-colors hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700 hover:dark:bg-neutral-800 hover:dark:bg-opacity-30"
           target="_blank"
           rel="noopener noreferrer"
@@ -67,7 +67,7 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Keep track of your calorie goals and macros 
+            Keep track of your calorie goals and macros. 
           </p>
         </a>
 
